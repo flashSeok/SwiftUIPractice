@@ -17,6 +17,10 @@
 		CCDFC67F2996A02E00FBD9FD /* StacksBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC67E2996A02E00FBD9FD /* StacksBootCamp.swift */; };
 		CCDFC6812996A7A800FBD9FD /* PaddingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC6802996A7A800FBD9FD /* PaddingBootCamp.swift */; };
 		CCDFC6832996AD0E00FBD9FD /* SpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC6822996AD0E00FBD9FD /* SpacerBootCamp.swift */; };
+		CCDFC6852997BBB200FBD9FD /* InitializerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC6842997BBB200FBD9FD /* InitializerBootCamp.swift */; };
+		CCDFC6872997C32F00FBD9FD /* ForEachBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC6862997C32F00FBD9FD /* ForEachBootCamp.swift */; };
+		CCDFC6892997C82700FBD9FD /* ScrollViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC6882997C82700FBD9FD /* ScrollViewBootCamp.swift */; };
+		CCDFC68B2997DAC600FBD9FD /* LazyVGridBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC68A2997DAC600FBD9FD /* LazyVGridBootCamp.swift */; };
 		CCF51AFA2993B4780076AE54 /* BootCamp01App.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF51AF92993B4780076AE54 /* BootCamp01App.swift */; };
 		CCF51AFC2993B4780076AE54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF51AFB2993B4780076AE54 /* ContentView.swift */; };
 		CCF51AFE2993B4780076AE54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCF51AFD2993B4780076AE54 /* Assets.xcassets */; };
@@ -35,6 +39,10 @@
 		CCDFC67E2996A02E00FBD9FD /* StacksBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootCamp.swift; sourceTree = "<group>"; };
 		CCDFC6802996A7A800FBD9FD /* PaddingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootCamp.swift; sourceTree = "<group>"; };
 		CCDFC6822996AD0E00FBD9FD /* SpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootCamp.swift; sourceTree = "<group>"; };
+		CCDFC6842997BBB200FBD9FD /* InitializerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootCamp.swift; sourceTree = "<group>"; };
+		CCDFC6862997C32F00FBD9FD /* ForEachBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootCamp.swift; sourceTree = "<group>"; };
+		CCDFC6882997C82700FBD9FD /* ScrollViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootCamp.swift; sourceTree = "<group>"; };
+		CCDFC68A2997DAC600FBD9FD /* LazyVGridBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridBootCamp.swift; sourceTree = "<group>"; };
 		CCF51AF62993B4780076AE54 /* BootCamp01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BootCamp01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF51AF92993B4780076AE54 /* BootCamp01App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootCamp01App.swift; sourceTree = "<group>"; };
 		CCF51AFB2993B4780076AE54 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -86,6 +94,10 @@
 				CCDFC67E2996A02E00FBD9FD /* StacksBootCamp.swift */,
 				CCDFC6802996A7A800FBD9FD /* PaddingBootCamp.swift */,
 				CCDFC6822996AD0E00FBD9FD /* SpacerBootCamp.swift */,
+				CCDFC6842997BBB200FBD9FD /* InitializerBootCamp.swift */,
+				CCDFC6862997C32F00FBD9FD /* ForEachBootCamp.swift */,
+				CCDFC6882997C82700FBD9FD /* ScrollViewBootCamp.swift */,
+				CCDFC68A2997DAC600FBD9FD /* LazyVGridBootCamp.swift */,
 				CCF51AFD2993B4780076AE54 /* Assets.xcassets */,
 				CCF51AFF2993B4780076AE54 /* Preview Content */,
 			);
@@ -171,14 +183,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCDFC6812996A7A800FBD9FD /* PaddingBootCamp.swift in Sources */,
+				CCDFC6872997C32F00FBD9FD /* ForEachBootCamp.swift in Sources */,
+				CCDFC6892997C82700FBD9FD /* ScrollViewBootCamp.swift in Sources */,
 				CC468C102994E30700961D7E /* IconsBootCamp.swift in Sources */,
 				CCAF0FDA2993EA010026CE11 /* ShapesBootCamp.swift in Sources */,
 				CCF51AFC2993B4780076AE54 /* ContentView.swift in Sources */,
 				CCDFC67D2995444500FBD9FD /* BackgroundAndOverlayBootCamp.swift in Sources */,
 				CCAF0FDC2993EFBC0026CE11 /* ColorBootCamp.swift in Sources */,
+				CCDFC68B2997DAC600FBD9FD /* LazyVGridBootCamp.swift in Sources */,
 				CCDFC6832996AD0E00FBD9FD /* SpacerBootCamp.swift in Sources */,
 				CCF51AFA2993B4780076AE54 /* BootCamp01App.swift in Sources */,
 				CCAF0FDE2994CFC30026CE11 /* GradientsBootCamp.swift in Sources */,
+				CCDFC6852997BBB200FBD9FD /* InitializerBootCamp.swift in Sources */,
 				CCDFC6792994E7E900FBD9FD /* ImageBootCamp.swift in Sources */,
 				CCDFC67F2996A02E00FBD9FD /* StacksBootCamp.swift in Sources */,
 				CCF51B082993BA740076AE54 /* TextBootCamp.swift in Sources */,
