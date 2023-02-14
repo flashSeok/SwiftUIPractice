@@ -12,8 +12,9 @@ import SwiftUI
 struct BootCamp01App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
 //            ImageBootCamp()
+             SafeAreaBootCamp()
         }
     }
 }
