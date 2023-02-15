@@ -14,7 +14,8 @@ struct BootCamp01App: App {
         WindowGroup {
 //            ContentView()
 //            ImageBootCamp()
-             SafeAreaBootCamp()
+//             TransitionBootcamp()
+            PopoverBootcamp()
         }
     }
 }
