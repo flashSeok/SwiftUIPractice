@@ -18,7 +18,6 @@ struct BindingBootCamp: View {
         ZStack {
             backgroundColor.ignoresSafeArea(.all)
             
-            
             VStack {
                 
                 Text(title)

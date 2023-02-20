@@ -15,7 +15,11 @@ struct BootCamp01App: App {
 //            ContentView()
 //            ImageBootCamp()
 //             TransitionBootcamp()
-            PopoverBootcamp()
+//            PopoverBootcamp()
+//            NavigationViewBootcamp()
+//            ListBootcamp()
+//            AlertBootcamp()
+            ActionSheetBootcamp()
         }
     }
 }
