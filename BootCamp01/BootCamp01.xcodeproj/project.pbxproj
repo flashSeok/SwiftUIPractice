@@ -42,6 +42,13 @@
 		CCE85AD929A3CF1D0043D062 /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AD829A3CF1D0043D062 /* ContextMenuBootcamp.swift */; };
 		CCE85ADB29A3D1AE0043D062 /* TextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85ADA29A3D1AE0043D062 /* TextFieldBootcamp.swift */; };
 		CCE85ADD29A3D7700043D062 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85ADC29A3D7700043D062 /* TextEditorBootcamp.swift */; };
+		CCE85ADF29A46E380043D062 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85ADE29A46E380043D062 /* ToggleBootcamp.swift */; };
+		CCE85AE129A470E80043D062 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AE029A470E80043D062 /* PickerBootcamp.swift */; };
+		CCE85AE329A4DF4F0043D062 /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AE229A4DF4F0043D062 /* ColorPickerBootcamp.swift */; };
+		CCE85AE529A4E0D30043D062 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AE429A4E0D30043D062 /* DatePickerBootcamp.swift */; };
+		CCE85AE729A51B4F0043D062 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AE629A51B4F0043D062 /* StepperBootcamp.swift */; };
+		CCE85AE929A51D4A0043D062 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AE829A51D4A0043D062 /* SliderBootcamp.swift */; };
+		CCE85AEB29A522880043D062 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AEA29A522880043D062 /* TabViewBootcamp.swift */; };
 		CCF51AFA2993B4780076AE54 /* BootCamp01App.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF51AF92993B4780076AE54 /* BootCamp01App.swift */; };
 		CCF51AFC2993B4780076AE54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF51AFB2993B4780076AE54 /* ContentView.swift */; };
 		CCF51AFE2993B4780076AE54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCF51AFD2993B4780076AE54 /* Assets.xcassets */; };
@@ -85,6 +92,14 @@
 		CCE85AD829A3CF1D0043D062 /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
 		CCE85ADA29A3D1AE0043D062 /* TextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootcamp.swift; sourceTree = "<group>"; };
 		CCE85ADC29A3D7700043D062 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
+		CCE85ADE29A46E380043D062 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AE029A470E80043D062 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AE229A4DF4F0043D062 /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AE429A4E0D30043D062 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AE629A51B4F0043D062 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AE829A51D4A0043D062 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AEA29A522880043D062 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AEC29A52E8B0043D062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		CCF51AF62993B4780076AE54 /* BootCamp01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BootCamp01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF51AF92993B4780076AE54 /* BootCamp01App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootCamp01App.swift; sourceTree = "<group>"; };
 		CCF51AFB2993B4780076AE54 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -123,6 +138,7 @@
 		CCF51AF82993B4780076AE54 /* BootCamp01 */ = {
 			isa = PBXGroup;
 			children = (
+				CCE85AEC29A52E8B0043D062 /* Info.plist */,
 				CCF51AF92993B4780076AE54 /* BootCamp01App.swift */,
 				CCF51AFB2993B4780076AE54 /* ContentView.swift */,
 				CCE85AB4299805200043D062 /* Test.swift */,
@@ -161,6 +177,13 @@
 				CCE85AD829A3CF1D0043D062 /* ContextMenuBootcamp.swift */,
 				CCE85ADA29A3D1AE0043D062 /* TextFieldBootcamp.swift */,
 				CCE85ADC29A3D7700043D062 /* TextEditorBootcamp.swift */,
+				CCE85ADE29A46E380043D062 /* ToggleBootcamp.swift */,
+				CCE85AE029A470E80043D062 /* PickerBootcamp.swift */,
+				CCE85AE229A4DF4F0043D062 /* ColorPickerBootcamp.swift */,
+				CCE85AE429A4E0D30043D062 /* DatePickerBootcamp.swift */,
+				CCE85AE629A51B4F0043D062 /* StepperBootcamp.swift */,
+				CCE85AE829A51D4A0043D062 /* SliderBootcamp.swift */,
+				CCE85AEA29A522880043D062 /* TabViewBootcamp.swift */,
 				CCF51AFD2993B4780076AE54 /* Assets.xcassets */,
 				CCF51AFF2993B4780076AE54 /* Preview Content */,
 			);
@@ -250,9 +273,11 @@
 				CCE85AB9299A4C810043D062 /* StateBootCamp.swift in Sources */,
 				CCDFC6872997C32F00FBD9FD /* ForEachBootCamp.swift in Sources */,
 				CCDFC6892997C82700FBD9FD /* ScrollViewBootCamp.swift in Sources */,
+				CCE85AE729A51B4F0043D062 /* StepperBootcamp.swift in Sources */,
 				CC468C102994E30700961D7E /* IconsBootCamp.swift in Sources */,
 				CCE85AB5299805200043D062 /* Test.swift in Sources */,
 				CCE85ABB299AB4A00043D062 /* ExtractedFunctionsBootCamp.swift in Sources */,
+				CCE85AEB29A522880043D062 /* TabViewBootcamp.swift in Sources */,
 				CCE85AD1299FCA110043D062 /* ListBootcamp.swift in Sources */,
 				CCAF0FDA2993EA010026CE11 /* ShapesBootCamp.swift in Sources */,
 				CCE85AC1299AC4D80043D062 /* ConditionalBootCamp.swift in Sources */,
@@ -269,15 +294,20 @@
 				CCE85AB7299A45FA0043D062 /* ButtonsBootCamp.swift in Sources */,
 				CCF51AFA2993B4780076AE54 /* BootCamp01App.swift in Sources */,
 				CCE85AD929A3CF1D0043D062 /* ContextMenuBootcamp.swift in Sources */,
+				CCE85AE529A4E0D30043D062 /* DatePickerBootcamp.swift in Sources */,
 				CCE85AD529A22A660043D062 /* ActionSheetBootcamp.swift in Sources */,
 				CCE85ADB29A3D1AE0043D062 /* TextFieldBootcamp.swift in Sources */,
 				CCE85ADD29A3D7700043D062 /* TextEditorBootcamp.swift in Sources */,
 				CCE85AC5299ACE0E0043D062 /* AnimationBootcamp.swift in Sources */,
+				CCE85AE329A4DF4F0043D062 /* ColorPickerBootcamp.swift in Sources */,
+				CCE85AE929A51D4A0043D062 /* SliderBootcamp.swift in Sources */,
 				CCE85ACF299E7DA10043D062 /* NavigationViewBootcamp.swift in Sources */,
 				CCE85AD329A0608F0043D062 /* AlertBootcamp.swift in Sources */,
+				CCE85ADF29A46E380043D062 /* ToggleBootcamp.swift in Sources */,
 				CCAF0FDE2994CFC30026CE11 /* GradientsBootCamp.swift in Sources */,
 				CCDFC6852997BBB200FBD9FD /* InitializerBootCamp.swift in Sources */,
 				CCE85ACB299D326F0043D062 /* SheetsBootcamp.swift in Sources */,
+				CCE85AE129A470E80043D062 /* PickerBootcamp.swift in Sources */,
 				CCDFC6792994E7E900FBD9FD /* ImageBootCamp.swift in Sources */,
 				CCDFC67F2996A02E00FBD9FD /* StacksBootCamp.swift in Sources */,
 				CCE85AC7299AD4700043D062 /* AnimationTimingBootcamp.swift in Sources */,
@@ -413,8 +443,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"BootCamp01/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BootCamp01/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = BootCamp01;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -446,8 +476,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"BootCamp01/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BootCamp01/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = BootCamp01;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;

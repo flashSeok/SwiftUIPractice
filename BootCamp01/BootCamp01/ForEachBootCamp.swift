@@ -16,7 +16,7 @@ struct ForEachBootCamp: View {
     var body: some View {
         VStack {
             // indices : 컬렉션을 오름차순으로 구독하는데 유효한 인덱스
-            ForEach(data.indices) { index in
+            ForEach(data.indices, id: \.self) { index in
                 Text("\(data[index]) : \(index)")
             }
             

@@ -19,7 +19,9 @@ struct BootCamp01App: App {
 //            NavigationViewBootcamp()
 //            ListBootcamp()
 //            AlertBootcamp()
-            ActionSheetBootcamp()
+//            ActionSheetBootcamp()
+//            PickerBootcamp()
+            TabViewBootcamp()
         }
     }
 }
