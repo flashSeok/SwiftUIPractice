@@ -11,6 +11,13 @@
 		CCAF0FDA2993EA010026CE11 /* ShapesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCAF0FD92993EA010026CE11 /* ShapesBootCamp.swift */; };
 		CCAF0FDC2993EFBC0026CE11 /* ColorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCAF0FDB2993EFBC0026CE11 /* ColorBootCamp.swift */; };
 		CCAF0FDE2994CFC30026CE11 /* GradientsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCAF0FDD2994CFC30026CE11 /* GradientsBootCamp.swift */; };
+		CCD7BCF729A6726C00F3A877 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD7BCF629A6726C00F3A877 /* OnAppearBootcamp.swift */; };
+		CCD7BCFA29A74FD700F3A877 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD7BCF929A74FD700F3A877 /* IfLetGuardBootcamp.swift */; };
+		CCD7BCFC29A7552700F3A877 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD7BCFB29A7552600F3A877 /* TapGestureBootcamp.swift */; };
+		CCD7BCFE29A7575200F3A877 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD7BCFD29A7575200F3A877 /* ModelBootcamp.swift */; };
+		CCD7BD0029A7610300F3A877 /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD7BCFF29A7610300F3A877 /* ViewModelBootcamp.swift */; };
+		CCD7BD0229A7AB0800F3A877 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD7BD0129A7AB0800F3A877 /* EnvironmentObjectBootcamp.swift */; };
+		CCD7BD0429A7BCB400F3A877 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCD7BD0329A7BCB400F3A877 /* AppStorageBootcamp.swift */; };
 		CCDFC6792994E7E900FBD9FD /* ImageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC6782994E7E900FBD9FD /* ImageBootCamp.swift */; };
 		CCDFC67B29953F6C00FBD9FD /* FrameBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC67A29953F6C00FBD9FD /* FrameBootCamp.swift */; };
 		CCDFC67D2995444500FBD9FD /* BackgroundAndOverlayBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCDFC67C2995444500FBD9FD /* BackgroundAndOverlayBootCamp.swift */; };
@@ -49,6 +56,8 @@
 		CCE85AE729A51B4F0043D062 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AE629A51B4F0043D062 /* StepperBootcamp.swift */; };
 		CCE85AE929A51D4A0043D062 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AE829A51D4A0043D062 /* SliderBootcamp.swift */; };
 		CCE85AEB29A522880043D062 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AEA29A522880043D062 /* TabViewBootcamp.swift */; };
+		CCE85AEE29A6595F0043D062 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AED29A6595F0043D062 /* DarkModeBootcamp.swift */; };
+		CCE85AF029A65E850043D062 /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE85AEF29A65E850043D062 /* DocumentationBootcamp.swift */; };
 		CCF51AFA2993B4780076AE54 /* BootCamp01App.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF51AF92993B4780076AE54 /* BootCamp01App.swift */; };
 		CCF51AFC2993B4780076AE54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCF51AFB2993B4780076AE54 /* ContentView.swift */; };
 		CCF51AFE2993B4780076AE54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCF51AFD2993B4780076AE54 /* Assets.xcassets */; };
@@ -61,6 +70,13 @@
 		CCAF0FD92993EA010026CE11 /* ShapesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootCamp.swift; sourceTree = "<group>"; };
 		CCAF0FDB2993EFBC0026CE11 /* ColorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootCamp.swift; sourceTree = "<group>"; };
 		CCAF0FDD2994CFC30026CE11 /* GradientsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootCamp.swift; sourceTree = "<group>"; };
+		CCD7BCF629A6726C00F3A877 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		CCD7BCF929A74FD700F3A877 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
+		CCD7BCFB29A7552600F3A877 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
+		CCD7BCFD29A7575200F3A877 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
+		CCD7BCFF29A7610300F3A877 /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
+		CCD7BD0129A7AB0800F3A877 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
+		CCD7BD0329A7BCB400F3A877 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 		CCDFC6782994E7E900FBD9FD /* ImageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootCamp.swift; sourceTree = "<group>"; };
 		CCDFC67A29953F6C00FBD9FD /* FrameBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootCamp.swift; sourceTree = "<group>"; };
 		CCDFC67C2995444500FBD9FD /* BackgroundAndOverlayBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootCamp.swift; sourceTree = "<group>"; };
@@ -100,6 +116,8 @@
 		CCE85AE829A51D4A0043D062 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		CCE85AEA29A522880043D062 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		CCE85AEC29A52E8B0043D062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		CCE85AED29A6595F0043D062 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
+		CCE85AEF29A65E850043D062 /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 		CCF51AF62993B4780076AE54 /* BootCamp01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BootCamp01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF51AF92993B4780076AE54 /* BootCamp01App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootCamp01App.swift; sourceTree = "<group>"; };
 		CCF51AFB2993B4780076AE54 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -184,6 +202,15 @@
 				CCE85AE629A51B4F0043D062 /* StepperBootcamp.swift */,
 				CCE85AE829A51D4A0043D062 /* SliderBootcamp.swift */,
 				CCE85AEA29A522880043D062 /* TabViewBootcamp.swift */,
+				CCE85AED29A6595F0043D062 /* DarkModeBootcamp.swift */,
+				CCE85AEF29A65E850043D062 /* DocumentationBootcamp.swift */,
+				CCD7BCF629A6726C00F3A877 /* OnAppearBootcamp.swift */,
+				CCD7BCF929A74FD700F3A877 /* IfLetGuardBootcamp.swift */,
+				CCD7BCFB29A7552600F3A877 /* TapGestureBootcamp.swift */,
+				CCD7BCFD29A7575200F3A877 /* ModelBootcamp.swift */,
+				CCD7BCFF29A7610300F3A877 /* ViewModelBootcamp.swift */,
+				CCD7BD0129A7AB0800F3A877 /* EnvironmentObjectBootcamp.swift */,
+				CCD7BD0329A7BCB400F3A877 /* AppStorageBootcamp.swift */,
 				CCF51AFD2993B4780076AE54 /* Assets.xcassets */,
 				CCF51AFF2993B4780076AE54 /* Preview Content */,
 			);
@@ -274,12 +301,17 @@
 				CCDFC6872997C32F00FBD9FD /* ForEachBootCamp.swift in Sources */,
 				CCDFC6892997C82700FBD9FD /* ScrollViewBootCamp.swift in Sources */,
 				CCE85AE729A51B4F0043D062 /* StepperBootcamp.swift in Sources */,
+				CCD7BCFC29A7552700F3A877 /* TapGestureBootcamp.swift in Sources */,
+				CCD7BCFE29A7575200F3A877 /* ModelBootcamp.swift in Sources */,
 				CC468C102994E30700961D7E /* IconsBootCamp.swift in Sources */,
 				CCE85AB5299805200043D062 /* Test.swift in Sources */,
 				CCE85ABB299AB4A00043D062 /* ExtractedFunctionsBootCamp.swift in Sources */,
 				CCE85AEB29A522880043D062 /* TabViewBootcamp.swift in Sources */,
+				CCD7BD0229A7AB0800F3A877 /* EnvironmentObjectBootcamp.swift in Sources */,
 				CCE85AD1299FCA110043D062 /* ListBootcamp.swift in Sources */,
+				CCD7BD0429A7BCB400F3A877 /* AppStorageBootcamp.swift in Sources */,
 				CCAF0FDA2993EA010026CE11 /* ShapesBootCamp.swift in Sources */,
+				CCE85AF029A65E850043D062 /* DocumentationBootcamp.swift in Sources */,
 				CCE85AC1299AC4D80043D062 /* ConditionalBootCamp.swift in Sources */,
 				CCE85AC9299BEA580043D062 /* TransitionBootcamp.swift in Sources */,
 				CCE85ACD299D37D70043D062 /* PopoverBootcamp.swift in Sources */,
@@ -292,14 +324,18 @@
 				CCDFC68B2997DAC600FBD9FD /* LazyVGridBootCamp.swift in Sources */,
 				CCDFC6832996AD0E00FBD9FD /* SpacerBootCamp.swift in Sources */,
 				CCE85AB7299A45FA0043D062 /* ButtonsBootCamp.swift in Sources */,
+				CCD7BD0029A7610300F3A877 /* ViewModelBootcamp.swift in Sources */,
 				CCF51AFA2993B4780076AE54 /* BootCamp01App.swift in Sources */,
+				CCD7BCF729A6726C00F3A877 /* OnAppearBootcamp.swift in Sources */,
 				CCE85AD929A3CF1D0043D062 /* ContextMenuBootcamp.swift in Sources */,
 				CCE85AE529A4E0D30043D062 /* DatePickerBootcamp.swift in Sources */,
 				CCE85AD529A22A660043D062 /* ActionSheetBootcamp.swift in Sources */,
 				CCE85ADB29A3D1AE0043D062 /* TextFieldBootcamp.swift in Sources */,
 				CCE85ADD29A3D7700043D062 /* TextEditorBootcamp.swift in Sources */,
 				CCE85AC5299ACE0E0043D062 /* AnimationBootcamp.swift in Sources */,
+				CCE85AEE29A6595F0043D062 /* DarkModeBootcamp.swift in Sources */,
 				CCE85AE329A4DF4F0043D062 /* ColorPickerBootcamp.swift in Sources */,
+				CCD7BCFA29A74FD700F3A877 /* IfLetGuardBootcamp.swift in Sources */,
 				CCE85AE929A51D4A0043D062 /* SliderBootcamp.swift in Sources */,
 				CCE85ACF299E7DA10043D062 /* NavigationViewBootcamp.swift in Sources */,
 				CCE85AD329A0608F0043D062 /* AlertBootcamp.swift in Sources */,
