@@ -22,7 +22,9 @@ struct BootCamp01App: App {
 //            ActionSheetBootcamp()
 //            PickerBootcamp()
 //            TabViewBootcamp()
-            AppStorageBootcamp()
+//            AppStorageBootcamp()
+//            FocusStateBootcamp()
+            SubmitTextFieldBootcamp()
         }
     }
 }

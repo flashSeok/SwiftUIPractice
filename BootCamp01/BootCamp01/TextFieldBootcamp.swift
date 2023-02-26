@@ -15,12 +15,14 @@ struct TextFieldBootcamp: View {
     var body: some View {
         NavigationStack {
             VStack {
-                TextField("Type something here...", text: $textFieldText)
+                TextField("Type something here...",
+                          text: $textFieldText)
         //            .textFieldStyle(.roundedBorder)
                     .padding()
                     .background(Color.gray.opacity(0.3).cornerRadius(10))
                     .foregroundColor(.red)
                     .font(.headline)
+                    
 
                 
                 Button(action: {
